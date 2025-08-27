@@ -6,11 +6,6 @@ It listens to your playing, analyzes the melody (key, tempo, genre, style), and 
 Tested on **Medeli SP-A500**, but should work with most digital pianos that support MIDI.
 
 ---
-INSTALL GUID
-For install Downloat .zip with project - klick code<> then download zip
-Next unzip it in new directory
-Then in directory where you unzip project click open in terminal
-
 
 ## ✨ Features
 - **Automatic MIDI port detection** (ignores `Midi Through`).
